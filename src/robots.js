@@ -1,0 +1,45 @@
+export const robots = [
+{
+	id:1,
+	name:'Talha',
+	username:'flash',
+	email:'taakshjhsj@shjahj.com'
+},
+{
+	id:2,
+	name:'Hasnat',
+	username:'MHTC',
+	email:'gasgjhsdghgads'
+},
+
+{
+	id:3,
+	name:'Hassaan',
+	username:'hth',
+	email:'ksdkajdkjdk'
+},
+{
+	id:4,
+	name:'Waqas',
+	username:'wiki',
+	email:'adjhjahskjh'
+},
+{
+	id:5,
+	name:'Zani',
+	username:'maho',
+	email:'hdghghajahjd'
+},
+{
+	id:6,
+	name:'Sunny',
+	username:'leon',
+	email:'ajsnjsnjj'
+},
+{
+	id:7,
+	name:'Blue',
+	username:'Hassaan',
+	email:'hghgk'
+},
+]
