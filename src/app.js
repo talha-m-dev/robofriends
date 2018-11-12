@@ -2,6 +2,12 @@ import React from 'react';
 import Searchbox from './Searchbox';
 import CardList from './CardList';
 import {robots} from './robots';
+
+const state = {
+    robots: robots,
+    Searchfield:''
+}
+
 const App = () => {
     return(
     <div className='tc'>
