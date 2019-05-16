@@ -1,1 +1,1 @@
-LOL it my first project
+LOL it's my first project
